@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>W13_jpg.rf.be6ea4834bef8c63552e85d5c12546ab.jpg</filename>
+	<path>W13_jpg.rf.be6ea4834bef8c63552e85d5c12546ab.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>410</width>
+		<height>410</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>W</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>124</xmin>
+			<xmax>321</xmax>
+			<ymin>68</ymin>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+</annotation>

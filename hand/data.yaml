@@ -1,0 +1,6 @@
+train: ../yolov5/hand/trian/images
+val: ../yolov5/hand/valid/images
+
+nc: 4
+# names: ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
+names: ['heartSingle','iloveyou','ok','yearh']

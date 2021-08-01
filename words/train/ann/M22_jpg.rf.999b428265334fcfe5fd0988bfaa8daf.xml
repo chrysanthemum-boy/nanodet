@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>M22_jpg.rf.999b428265334fcfe5fd0988bfaa8daf.jpg</filename>
+	<path>M22_jpg.rf.999b428265334fcfe5fd0988bfaa8daf.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>380</width>
+		<height>380</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>M</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>130</xmin>
+			<xmax>274</xmax>
+			<ymin>115</ymin>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+</annotation>

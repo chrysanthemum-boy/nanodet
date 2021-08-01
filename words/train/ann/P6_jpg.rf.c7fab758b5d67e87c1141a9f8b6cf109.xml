@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>P6_jpg.rf.c7fab758b5d67e87c1141a9f8b6cf109.jpg</filename>
+	<path>P6_jpg.rf.c7fab758b5d67e87c1141a9f8b6cf109.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>378</width>
+		<height>378</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>P</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>130</xmin>
+			<xmax>371</xmax>
+			<ymin>3</ymin>
+			<ymax>354</ymax>
+		</bndbox>
+	</object>
+</annotation>

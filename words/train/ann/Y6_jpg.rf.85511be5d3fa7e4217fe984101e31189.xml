@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Y6_jpg.rf.85511be5d3fa7e4217fe984101e31189.jpg</filename>
+	<path>Y6_jpg.rf.85511be5d3fa7e4217fe984101e31189.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>396</width>
+		<height>396</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Y</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>24</xmin>
+			<xmax>324</xmax>
+			<ymin>90</ymin>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+</annotation>

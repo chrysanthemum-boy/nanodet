@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>K15_jpg.rf.afcb8205efd3f2c7f74179d4eac59ebc.jpg</filename>
+	<path>K15_jpg.rf.afcb8205efd3f2c7f74179d4eac59ebc.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>408</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>K</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>94</xmin>
+			<xmax>293</xmax>
+			<ymin>109</ymin>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

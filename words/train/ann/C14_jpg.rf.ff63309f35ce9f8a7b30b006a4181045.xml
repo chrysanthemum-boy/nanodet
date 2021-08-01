@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>C14_jpg.rf.ff63309f35ce9f8a7b30b006a4181045.jpg</filename>
+	<path>C14_jpg.rf.ff63309f35ce9f8a7b30b006a4181045.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>408</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>112</xmin>
+			<xmax>307</xmax>
+			<ymin>77</ymin>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+</annotation>

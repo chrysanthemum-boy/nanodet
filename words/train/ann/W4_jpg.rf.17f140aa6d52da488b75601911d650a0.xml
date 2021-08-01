@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>W4_jpg.rf.17f140aa6d52da488b75601911d650a0.jpg</filename>
+	<path>W4_jpg.rf.17f140aa6d52da488b75601911d650a0.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>W</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>99</xmin>
+			<xmax>257</xmax>
+			<ymin>136</ymin>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
+</annotation>

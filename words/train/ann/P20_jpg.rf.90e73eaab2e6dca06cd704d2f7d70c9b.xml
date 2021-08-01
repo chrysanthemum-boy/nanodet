@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>P20_jpg.rf.90e73eaab2e6dca06cd704d2f7d70c9b.jpg</filename>
+	<path>P20_jpg.rf.90e73eaab2e6dca06cd704d2f7d70c9b.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>410</width>
+		<height>410</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>P</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>76</xmin>
+			<xmax>369</xmax>
+			<ymin>99</ymin>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+</annotation>

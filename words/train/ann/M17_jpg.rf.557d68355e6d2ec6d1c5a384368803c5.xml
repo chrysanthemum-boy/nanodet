@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>M17_jpg.rf.557d68355e6d2ec6d1c5a384368803c5.jpg</filename>
+	<path>M17_jpg.rf.557d68355e6d2ec6d1c5a384368803c5.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>376</width>
+		<height>376</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>M</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>63</xmin>
+			<xmax>245</xmax>
+			<ymin>161</ymin>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+</annotation>

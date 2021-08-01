@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>L16_jpg.rf.f4cfa21819dba119681069bd578a9ee1.jpg</filename>
+	<path>L16_jpg.rf.f4cfa21819dba119681069bd578a9ee1.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>398</width>
+		<height>398</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>L</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>116</xmin>
+			<xmax>375</xmax>
+			<ymin>143</ymin>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>O23_jpg.rf.0d113740e458f322420dfb75d5dede48.jpg</filename>
+	<path>O23_jpg.rf.0d113740e458f322420dfb75d5dede48.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>378</width>
+		<height>378</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>O</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>70</xmin>
+			<xmax>311</xmax>
+			<ymin>67</ymin>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+</annotation>

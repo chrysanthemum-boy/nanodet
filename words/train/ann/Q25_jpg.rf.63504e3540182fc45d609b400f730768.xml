@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Q25_jpg.rf.63504e3540182fc45d609b400f730768.jpg</filename>
+	<path>Q25_jpg.rf.63504e3540182fc45d609b400f730768.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>396</width>
+		<height>396</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Q</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>73</xmin>
+			<xmax>261</xmax>
+			<ymin>121</ymin>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>K7_jpg.rf.390eec4dd3547ab21bf095c43c6bc63f.jpg</filename>
+	<path>K7_jpg.rf.390eec4dd3547ab21bf095c43c6bc63f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>380</width>
+		<height>380</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>K</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>83</xmin>
+			<xmax>214</xmax>
+			<ymin>145</ymin>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+</annotation>

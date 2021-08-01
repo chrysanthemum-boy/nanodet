@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>T9_jpg.rf.4a416bb3133ec9135d7cfd16d2ff5c04.jpg</filename>
+	<path>T9_jpg.rf.4a416bb3133ec9135d7cfd16d2ff5c04.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>404</width>
+		<height>404</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>T</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>128</xmin>
+			<xmax>317</xmax>
+			<ymin>79</ymin>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>

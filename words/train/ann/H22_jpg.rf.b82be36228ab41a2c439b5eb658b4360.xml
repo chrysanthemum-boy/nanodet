@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>H22_jpg.rf.b82be36228ab41a2c439b5eb658b4360.jpg</filename>
+	<path>H22_jpg.rf.b82be36228ab41a2c439b5eb658b4360.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>374</width>
+		<height>374</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>H</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>70</xmin>
+			<xmax>316</xmax>
+			<ymin>165</ymin>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>

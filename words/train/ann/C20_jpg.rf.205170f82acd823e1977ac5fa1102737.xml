@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>C20_jpg.rf.205170f82acd823e1977ac5fa1102737.jpg</filename>
+	<path>C20_jpg.rf.205170f82acd823e1977ac5fa1102737.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>95</xmin>
+			<xmax>366</xmax>
+			<ymin>179</ymin>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>

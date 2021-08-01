@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>E0_jpg.rf.2754d7217376d1e9cf151758879180f8.jpg</filename>
+	<path>E0_jpg.rf.2754d7217376d1e9cf151758879180f8.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>374</width>
+		<height>374</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>E</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>173</xmin>
+			<xmax>302</xmax>
+			<ymin>155</ymin>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+</annotation>

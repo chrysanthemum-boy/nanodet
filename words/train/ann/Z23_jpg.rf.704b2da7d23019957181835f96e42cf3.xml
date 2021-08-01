@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Z23_jpg.rf.704b2da7d23019957181835f96e42cf3.jpg</filename>
+	<path>Z23_jpg.rf.704b2da7d23019957181835f96e42cf3.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>378</width>
+		<height>378</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Z</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>132</xmin>
+			<xmax>268</xmax>
+			<ymin>219</ymin>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+</annotation>

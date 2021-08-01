@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>V20_jpg.rf.6fcac88e662687d530f439f9bb7352cf.jpg</filename>
+	<path>V20_jpg.rf.6fcac88e662687d530f439f9bb7352cf.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>374</width>
+		<height>374</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>V</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>73</xmin>
+			<xmax>212</xmax>
+			<ymin>131</ymin>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>

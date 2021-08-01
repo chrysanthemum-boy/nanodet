@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>G19_jpg.rf.2eb8c3a2a40db346a865d9176d5e85d9.jpg</filename>
+	<path>G19_jpg.rf.2eb8c3a2a40db346a865d9176d5e85d9.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>G</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>74</xmin>
+			<xmax>384</xmax>
+			<ymin>113</ymin>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>N10_jpg.rf.3e94be30757dd080203abd8a966f5a89.jpg</filename>
+	<path>N10_jpg.rf.3e94be30757dd080203abd8a966f5a89.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>N</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>135</xmin>
+			<xmax>353</xmax>
+			<ymin>146</ymin>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>

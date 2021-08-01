@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>P14_jpg.rf.1dc01fbdf79f9ddbdf94146a8313a452.jpg</filename>
+	<path>P14_jpg.rf.1dc01fbdf79f9ddbdf94146a8313a452.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>P</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>40</xmin>
+			<xmax>374</xmax>
+			<ymin>42</ymin>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>
