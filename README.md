@@ -1,3 +1,5 @@
+[<img src="https://img.shields.io/badge/Language-English-blue.svg">](README_en.md) | [<img src="https://img.shields.io/badge/Language-简体中文-red.svg">](README.md)
+
 # nanodet
 ##### 轻量级手势识别自学项目  
 
